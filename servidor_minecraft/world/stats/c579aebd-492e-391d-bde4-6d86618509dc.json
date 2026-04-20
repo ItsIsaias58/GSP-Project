@@ -7,24 +7,29 @@
       "minecraft:sugar_cane": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 11734,
-      "minecraft:walk_one_cm": 6189,
-      "minecraft:leave_game": 6,
+      "minecraft:time_since_rest": 326,
+      "minecraft:walk_one_cm": 6453,
+      "minecraft:leave_game": 7,
       "minecraft:walk_under_water_one_cm": 149,
-      "minecraft:play_time": 11734,
-      "minecraft:jump": 223,
-      "minecraft:time_since_death": 11734,
+      "minecraft:damage_taken": 225,
+      "minecraft:play_time": 20902,
+      "minecraft:jump": 225,
+      "minecraft:time_since_death": 107,
       "minecraft:drop": 3,
-      "minecraft:sprint_one_cm": 24276,
-      "minecraft:fall_one_cm": 6240,
+      "minecraft:sprint_one_cm": 24465,
+      "minecraft:fall_one_cm": 6500,
       "minecraft:swim_one_cm": 2832,
-      "minecraft:total_world_time": 11734,
-      "minecraft:fly_one_cm": 56247,
+      "minecraft:total_world_time": 20902,
+      "minecraft:fly_one_cm": 56656,
       "minecraft:walk_on_water_one_cm": 296,
-      "minecraft:sneak_time": 79
+      "minecraft:sneak_time": 105,
+      "minecraft:deaths": 1
     },
     "minecraft:picked_up": {
       "minecraft:sugar_cane": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
     }
   },
   "DataVersion": 4671
